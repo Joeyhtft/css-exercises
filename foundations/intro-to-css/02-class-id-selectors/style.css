@@ -1,0 +1,13 @@
+.num_1 {
+    color: black;
+    background-color: salmon;
+}
+
+#num_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.num_1 .num_3 {
+    font-size: 26px;
+}
