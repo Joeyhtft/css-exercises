@@ -8,6 +8,21 @@
     font-size: 36px;
 }
 
-.num_1 .num_3 {
-    font-size: 26px;
+.num_3 {
+    color: black;
+    background-color: salmon;
+    font-size: 24px;
+}
+
+#num_4 {
+    color: black;
+    background-color: limegreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.num_5 {
+    background-color: salmon;
+    color: black;
+    font-size: 20px;
 }
